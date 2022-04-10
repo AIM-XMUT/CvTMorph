@@ -57,6 +57,7 @@ pip install nibabel, ml_collections==0.1.0, pystrum==0.1, torchsummary==1.5.1
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;-&nbsp; img0.nii.gz  
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;-&nbsp; img1.nii.gz  
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;-&nbsp; . . .
+
 ##Train&Test
 ```
 python ./train.py
