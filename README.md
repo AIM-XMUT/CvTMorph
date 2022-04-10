@@ -66,7 +66,7 @@ python ./train.py
 python ./test.py
 ```
 
-##Reference:
+## Reference:
 Our implementation is mainly based on the following codebases. We gratefully thank the authors for their wonderful works.
 
 [CvT](https://github.com/microsoft/CvT)
