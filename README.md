@@ -79,6 +79,6 @@ Our implementation is mainly based on the following codebases. We gratefully tha
 
 [Elastix](https://github.com/SuperElastix/SimpleElastix)
 
-##AboutUs
+## AboutUs
 AI in medical image processing at XMUT  
 Yifan Guo(郭逸凡), Xuan Pei(裴瑄), Ting Wu(吴婷), Jiayang Guo (郭嘉阳),  Dahan Wang(王大寒), Peizhi Chen(陈培芝)
