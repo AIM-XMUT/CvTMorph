@@ -1,5 +1,5 @@
 # CvTMorph
-CvTMorph: Unsupervised Learning for Diffeomorphic Respiratory Lung Image Modeling based on Convolutional vision Transformer
+CvTMorph: Better Registration on Local Structures for Respiratory Motion Modeling
 
 keyword: 4D-CT lung, image registration, vision transformer
 
