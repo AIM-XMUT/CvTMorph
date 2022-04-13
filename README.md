@@ -26,7 +26,7 @@ https://pytorch.org/get-started/previous-versions/
 ```
 Then
 ```
-pip install nibabel, ml_collections==0.1.0, pystrum==0.1, torchsummary==1.5.1, einops==0.3.2
+pip install nibabel==3.2.1 ml_collections==0.1.0 pystrum==0.1 torchsummary==1.5.1 einops==0.3.2 torch-smmary==1.4.4
 ```
 ## Prepare Data
 ### Note that the training directory must be modified in the train.py code
@@ -86,4 +86,4 @@ Our implementation is mainly based on the following codebases. We gratefully tha
 
 ## AboutUs
 AI in medical image processing at XMUT  
-Yifan Guo(郭逸凡), Xuan Pei(裴瑄), Ting Wu(吴婷), Jiayang Guo (郭嘉阳),  Dahan Wang(王大寒), Peizhi Chen(陈培芝)
+Yifan Guo(郭逸凡), Xuan Pei(裴瑄), Ting Wu(吴婷), Jiayang Guo(郭嘉阳),  Dahan Wang(王大寒), Peizhi Chen(陈培芝)
