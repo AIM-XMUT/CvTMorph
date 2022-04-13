@@ -26,7 +26,7 @@ https://pytorch.org/get-started/previous-versions/
 ```
 Then
 ```
-pip install nibabel, ml_collections==0.1.0, pystrum==0.1, torchsummary==1.5.1
+pip install nibabel, ml_collections==0.1.0, pystrum==0.1, torchsummary==1.5.1, einops==0.3.2
 ```
 ## Prepare Data
 ### Note that the training directory must be modified in the train.py code
