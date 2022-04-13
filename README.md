@@ -20,12 +20,16 @@ Or, using a 3090 GPU. Use the following command:
 ```
 pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 ```
-
+Or choose a pip that matches your GPU
+```
+https://pytorch.org/get-started/previous-versions/
+```
 Then
 ```
 pip install nibabel, ml_collections==0.1.0, pystrum==0.1, torchsummary==1.5.1
 ```
 ## Prepare Data
+### Note that the training directory must be modified in the train.py code
 ### For ours experiment settings
 |&nbsp;-&nbsp;Patients   
 &nbsp;&nbsp;&nbsp;|&nbsp;-&nbsp;patient_01    
@@ -62,6 +66,7 @@ pip install nibabel, ml_collections==0.1.0, pystrum==0.1, torchsummary==1.5.1
 ```
 python ./train.py
 ```
+For testing, we provide a simple case to test and you need to adapt it for your own test cases.
 ```
 python ./test.py
 ```
